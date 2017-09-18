@@ -1,3 +1,7 @@
+/* Given a map where in each aphabet is assigned a code like a=1, b=2, c=3,...,z=26, and a string containing a sequence of digits, output
+all possible alphabet strings this sequence can be decoded into.
+For example: "1123" can be decoded as "aabc", "aaw", "alc", "kbc", "kw" */
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
