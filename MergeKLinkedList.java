@@ -84,15 +84,6 @@ public class MergeKLinkedList {
 		
         aux=mergeKLists(update);
         
-//        ListNode dude=aux;
-//        while(dude.next!=null)
-//        {
-//        	if(dude.val==Integer.MAX_VALUE)
-//        	{
-//        		dude.next=null;
-//        	}
-//        	dude=dude.next;
-//        }
         return aux;
     }
 }
