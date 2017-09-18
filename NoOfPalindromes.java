@@ -1,3 +1,5 @@
+/* given a string, out the number of palindromes  it contains */
+
 import java.util.HashMap;
 import java.util.HashSet;
 
